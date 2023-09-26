@@ -1,0 +1,15 @@
+{
+    "name": "lce/projet_php",
+    "autoload": {
+        "psr-4": {
+            "Lce\\ProjetPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Laurent Cetinsoy",
+            "email": "laurent.cetinsoy@nowledgeable.com"
+        }
+    ],
+    "require": {}
+}
