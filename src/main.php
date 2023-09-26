@@ -1,4 +1,3 @@
 <?php 
 
-
-echo "yo le projet\n";
+var_dump($_SERVER['REQUEST_URI']);
